@@ -17,5 +17,4 @@ resource "aws_instance" "instance3" {
   tags {
     Name = "hostTerraform3"
   }
-  count = 1
 }
