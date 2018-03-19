@@ -1,7 +1,7 @@
 #Declaring variable
 variable "access_key" {}
 variable "secret_key" {}
-variable "region" {}
+#variable "region" {}
 
 #Configure the AWS provider
 provider "aws" {
